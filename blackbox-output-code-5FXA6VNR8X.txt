@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VK FASHION</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to VK FASHION</h1>
+        <nav>
+            <a href="#gallery">Gallery</a>
+            <a href="#about">About</a>
+        </nav>
+    </header>
+    
+    <section id="gallery">
+        <h2>Fashion Gallery</h2>
+        <div class="gallery">
+            <img src="https://via.placeholder.com/300x400?text=Dress1" alt="Fashion Item 1">
+            <img src="https://via.placeholder.com/300x400?text=Dress2" alt="Fashion Item 2">
+            <img src="https://via.placeholder.com/300x400?text=Dress3" alt="Fashion Item 3">
+        </div>
+    </section>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Discover the latest trends in fashion with VK FASHION. We curate stylish outfits for every occasion.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 VK FASHION. All rights reserved.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
